@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Davidson0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm @Davidson0
 
-<!---
-Davidson0/Davidson0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 What I’m Interested In
+- Bot development (Discord, Slack)
+- AI and machine learning
+- Web development
+
+## 🌱 What I’m Currently Learning
+- Advanced bot programming in Python
+- AI-driven chatbot improvements
+- Full-stack web development
+
+## 💼 What I’m Looking To Collaborate On
+- Open-source Discord bots
+- AI integration for bots
+- Community-driven projects
+
+## 📫 How to Reach Me
+- [GitHub](https://github.com/Davidson0)
