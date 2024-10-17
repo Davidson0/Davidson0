@@ -22,7 +22,7 @@ Türkiye'de yaşıyorum ve yazılım dünyasına büyük bir tutkuyla bağlıyı
 ![Davidson'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=davidson&show_icons=true&theme=radical)  
 ![Dil İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=davidson&layout=compact&theme=radical)
 
-[Profilimi Görüntüle](https://github.com/davidson)
+[Profilimi Görüntüle](https://github.com/Davidson0)
 
 ## 📫 Benimle İletişime Geçin
 
