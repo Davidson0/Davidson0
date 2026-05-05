@@ -1,35 +1,53 @@
-# Merhaba 👋, Ben Davidson ❤️
+<div align="center">
+  <h1>Hi there, I'm Ramazan Çelik (Davidson) 👋</h1>
+  <h3>Frontend & Software Developer from Turkey 🇹🇷</h3>
+  
+  <p>
+    I'm a passionate student and developer who loves building modern web applications and continuously learning new technologies. Programming isn't just a career path for me; it's my biggest interest and hobby.
+  </p>
 
-Türkiye'de yaşıyorum ve yazılım dünyasına büyük bir tutkuyla bağlıyım. Şu anda öğrenciyim ve her zaman yeni şeyler öğrenmeye, kendimi geliştirmeye hevesliyim. Teknoloji ve programlama benim için sadece bir kariyer yolu değil, aynı zamanda en büyük ilgi alanım.
+  <a href="https://davidsonblog.glitch.me" target="_blank">
+    <img src="https://img.shields.io/badge/Read_My_Blog-100000?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+  </a>
+</div>
 
-## 🚀 Diller ve Araçlar
+<br/>
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  
+  <!-- Frontend & Backend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  
+  <!-- OS & Tools -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📈 İstatistikler
+<br/>
 
-![Davidson'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=davidson&show_icons=true&theme=radical)  
-![Dil İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=davidson&layout=compact&theme=radical)
+### 📊 GitHub Stats
 
-![Profil Görüntüleme](https://komarev.com/ghpvc/?username=davidson0&color=blue)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidson0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
-## 📫 Benimle İletişime Geçin
+<br/>
 
-<p align="left">
-<a href="https://dev.to/davidson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="davidson" height="30" width="40" /></a>
-<a href="https://twitter.com/davidson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidson" height="30" width="40" /></a>
-<a href="https://fb.com/davidson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davidson" height="30" width="40" /></a>
-<a href="https://instagram.com/davidson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidson" height="30" width="40" /></a>
-<a href="https://discord.gg/davidson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="davidson" height="30" width="40" /></a>
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="https://instagram.com/ramazzancelik" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
